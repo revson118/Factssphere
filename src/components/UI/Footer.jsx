@@ -57,7 +57,7 @@ export const Footers = () => {
                 </li>
                 <li>
                   <NavLink
-                    to="https://thapatechnical.shop/source-code"
+                    to="https://github.com/revson118/Factssphere"
                     target="_blank"
                   >
                     Source Code
